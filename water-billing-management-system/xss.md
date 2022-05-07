@@ -64,4 +64,4 @@ Content-Type: application/octet-stream
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/wbms_bug_report/blob/main/water-billing-management-system/xss.gif?raw=true)
